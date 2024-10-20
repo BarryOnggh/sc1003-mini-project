@@ -1,0 +1,12 @@
+1. School Affiliation: To ensure a mix of knowledge and skills, no team should have a 
+majority of students from the same school.
+
+2. Gender: To promote gender diversity, no team should have a majority of students 
+from the same gender.
+
+3. Current CGPA: To balance academic performance, teams should not consist 
+predominantly of students with very high or very low CGPAs.
+
+initial pseudocode:
+
+find distribution of schools, male to female ratio
